@@ -1,22 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:24.017614
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:49
 #+TITLE: 金剛錍
 #+PROPERTY: CBETA_ID T46n1932
 #+PROPERTY: ID KR6d0175
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1932
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0175_T_001-0781a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1932¶
+No. 1932¶
 
-科金剛錍序
-:PROPERTIES:
-:head: 科金剛錍序
-:END:
-¶
+* 科金剛錍序¶
 ¶
 宋雲間沙門淨岳撰¶
 
@@ -31,8 +27,7 @@ No.1932¶
 醐可獲。豈仍乳而已耶。¶
 ¶
 ¶
-
- 金剛錍(圓伊金錍。以抉四眼無明之膜。令一切處悉見遮那佛性之指。偏權疑碎加之以剛。¶
+金剛錍(圓伊金錍。以抉四眼無明之膜。令一切處悉見遮那佛性之指。偏權疑碎加之以剛。¶
 假夢寄客立以賓主。觀者恕之)¶
 ¶
 唐天台沙門湛然述¶
@@ -307,8 +302,7 @@ No.1932¶
 
 問唯心之言子曾聞耶。唯只是心。異不名唯。¶
 問唯心之言凡聖心耶。若聖若凡二俱有過。¶
-問唯心名心造無心耶。唯造心耶。二俱有¶
-過。問唯心唯心亦唯色耶。若不唯色。色非¶
+問唯心名心造無心耶。唯造心耶。二俱有過。問唯心唯心＋（邪）【甲】心亦唯色耶心亦唯色耶。若不唯色。色非¶
 心耶。問唯心所造唯依與正。依正能所同¶
 耶異耶。¶
 
