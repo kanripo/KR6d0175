@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:24.230147
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:49
 #+TITLE: 金剛錍
 #+PROPERTY: CBETA_ID T46n1932
 #+PROPERTY: ID KR6d0175
@@ -12,7 +12,7 @@
 ¶
 No. 1932¶
 
-科金剛錍序¶
+* 科金剛錍序¶
 ¶
 宋雲間沙門淨岳撰¶
 
